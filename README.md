@@ -1,4 +1,4 @@
-# survey_form
-responsive web design
-the very first independent project,
-here i just started getting acquainted with html and css
+# survey_form;
+Responsive Web Design;
+the very first independent project;
+here i just started getting acquainted with html and css;
